@@ -1,1 +1,1 @@
-"# JUCE-and-ETC" 
+Ear Candy Technology Course about JUCE
